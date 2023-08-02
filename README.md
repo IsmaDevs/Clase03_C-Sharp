@@ -1,7 +1,7 @@
 # Clase03_C-Sharp
 Attempt of a calculator with while and switch (C#)
 
-- IMPORTANTE
+- IMPORTANT
 
 This code is valid for console applications. Not for WindowsForms.
 ---
