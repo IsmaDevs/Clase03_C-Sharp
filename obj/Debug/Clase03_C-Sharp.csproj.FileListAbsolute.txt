@@ -1,0 +1,6 @@
+C:\Users\Administrateur\documents\visual studio 2015\Projects\Clase001\Clase003\bin\Debug\Clase003.exe.config
+C:\Users\Administrateur\documents\visual studio 2015\Projects\Clase001\Clase003\bin\Debug\Clase003.exe
+C:\Users\Administrateur\documents\visual studio 2015\Projects\Clase001\Clase003\bin\Debug\Clase003.pdb
+C:\Users\Administrateur\documents\visual studio 2015\Projects\Clase001\Clase003\obj\Debug\Clase003.exe
+C:\Users\Administrateur\documents\visual studio 2015\Projects\Clase001\Clase003\obj\Debug\Clase003.pdb
+C:\Users\Administrateur\documents\visual studio 2015\Projects\Clase001\Clase003\obj\Debug\Clase003.csprojResolveAssemblyReference.cache
